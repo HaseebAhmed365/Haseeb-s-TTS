@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+torch
+numpy>=1.24.0
+soundfile>=0.12.1
+lameenc>=1.7.0
+
+# Official Qwen3-TTS Python package (loads Qwen3-TTS models + APIs)
+qwen-tts
