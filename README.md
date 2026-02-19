@@ -28,6 +28,14 @@ Turn long-form chapter text into **high-quality MP3 narration** with **language 
 - NumPy, SoundFile
 - lameenc (MP3 encoding)
 
+
+## 🔗 Live Demo (Hugging Face Space)
+Check the deployed app here: https://huggingface.co/spaces/Jekyll2000/MY_TTS
+
+## 🖼️ UI Preview
+![UI Preview](assets/ui.png)
+
+
 ## 🚀 Run locally
 
 ### 1) Create environment
